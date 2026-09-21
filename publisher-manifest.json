@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "573c91bf3501b111eaa4eae7",
+  "owner": "cwkfnyqmm",
+  "repo": "page-5d5596580fe1e5d68ca2208b",
+  "title": "闪电(⚡️)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5d5596580fe1e5d68ca2208b",
+      "a": "闪电(⚡️)",
+      "b": "2027官方最新地址导航",
+      "entity": "闪电(⚡️)",
+      "brand": "闪电(⚡️)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e8d8fd16f1a49f9ff89d81516d9a8b3cc5e53b2124d2f06b8745814e7db2425e",
+      "content": {
+        "primary_entity": "闪电(⚡️)",
+        "keyword1": "闪电(⚡️)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端，并依照客户端文档配置订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "对比三档套餐，确认设备数和月流量后即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，再开始配置",
+          "AI_DESCRIPTION": "，闪电(⚡️)提供基础版、旗舰版与团队版三档套餐，月付与年付可选；月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，可按日常浏览、流媒体或团队协作需求选择。",
+          "AI_FEATURES_INTRO": "围绕套餐用量、设备数量与订阅周期，可以快速判断适合的版本。",
+          "AI_FEATURES_TITLE": "先看用量与设备需求",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻量日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，适合多人协作与高带宽场景。",
+          "AI_FEATURE_TITLE_1": "入门用量",
+          "AI_FEATURE_TITLE_2": "均衡性能",
+          "AI_FEATURE_TITLE_3": "多人共享",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，可按三个步骤推进。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "闪电(⚡️)提供多档海外加速套餐，覆盖轻量浏览、流媒体与团队协作场景；可按设备数量与月流量选择基础版、旗舰版或团队版，并搭配对应客户端完成订阅配置。",
+          "AI_HERO_SUBTITLE": "闪电(⚡️)多档加速套餐",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB 可选",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "月付与年付灵活切换",
+          "AI_PLANS_INTRO": "三档套餐按流量与设备数区分，年付价格更实惠，可结合使用人数对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量和设备数，从基础版、旗舰版或团队版中选择。",
+          "AI_STEP_TEXT_2": "查看所选版本对客户端和系统的适配说明，确认当前设备可用。",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅信息，完成配置后使用。",
+          "AI_STEP_TITLE_1": "选择版本",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "闪电(⚡️)加速服务选择",
+          "AI_FAQ_ANSWER_1": "闪电(⚡️)提供基础版每月100GB、旗舰版每月300GB、团队版每月1000GB流量，按需选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线，可按设备数量选择。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中导入订阅链接即可使用，各平台客户端配置方法可参考客户端文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版配备IPLC专线，针对游戏加速优化，可降低延迟，适合对实时性要求较高的场景。",
+          "AI_FAQ_ANSWER_5": "按年付比按月付更优惠，例如基础版按年付仅需150元，适合长期稳定使用的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "闪电(⚡️)各套餐提供多少流量？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "如何在不同设备上配置订阅？",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线有什么优势？",
+          "AI_FAQ_QUESTION_5": "按年付和按月付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xichangai.cn",
+    "host": "xichangai.cn"
+  },
+  "file_hashes": {
+    "index.html": "0cf99368b539410c732e34b8d67c9c1e0a4db94590e38e43ae63603d13df5f09",
+    "sitemap.xml": "12ea457658ac52289f32eecadd5eaba7957aa21712ec937656c3aefa94c82ffb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "601de3a477adc5e3c1eb7041e42de331c5a043d2761c1a8afcd72d9ede026097",
+    "robots.txt": "86d044c7d66020b65018dec759feb132034e2ae854fd61b48b8ca4751d590145",
+    "84ef035da638b249551b11b15c92f0b1.txt": "63dad384cb9b5633b86f5b3d74fd6272923fa5983e550452ee29a41f4d4a303e"
+  },
+  "revision": "15bbb414ed49224aa89dda5f7662ad8c08206f081a0c7ecfd3338466cd7a877a"
+}
